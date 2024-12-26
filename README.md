@@ -20,9 +20,41 @@ This project serves as an introduction to building iOS applications using Xcode 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/d4TsRJK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/bTOLS7L.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/) for macOS
+
+---
+
+## App Brainstorming
+**Favorite Applications and Features**
+Instagram
+- Ability to seamlessly switch between multiple accounts.
+- Advanced photo editing tools directly integrated into the app.
+- Stories with interactive features like polls and questions.
+
+Spotify
+- Personalized playlists like Discover Weekly and Wrapped.
+- Offline download capability for listening on the go.
+- Real-time lyrics synced with songs.
+
+Google Maps
+- Turn-by-turn navigation with live traffic updates.
+- Offline map downloads for areas with poor connectivity.
+- Integration with ride-sharing apps for seamless travel planning.
+
+---
+
+## App Idea: Study Planner with Gamification
+I want to build an app combining study planning with gamification to motivate users. The app would allow users to:
+- **Set Study Goals:** Define subjects, topics, and deadlines to cover.
+- **Track Progress:** Visual progress trackers to show completed tasks.
+- **Earn Rewards:** Users earn points for meeting goals, which can be used to unlock features like themes or avatars.
+- **Collaborate:** Join study groups to share goals and motivate each other.
+
+This app would be ideal for students looking for a way to manage their studies effectively while staying motivated.
+
+---
 
 ## License
 
